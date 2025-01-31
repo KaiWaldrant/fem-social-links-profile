@@ -138,6 +138,19 @@ p {
   }
 }
 
+@media (min-width: 768px) {
+  .social_card {
+    width: 456px;
+    padding: 2.5rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  .social_card {
+    width: 384px;
+  }
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
